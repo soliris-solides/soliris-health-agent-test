@@ -1,0 +1,6 @@
+.env
+config
+tests
+pretty_print_messeges.py
+__pycache__
+teste.ipynb
